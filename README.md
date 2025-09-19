@@ -1,4 +1,4 @@
-# Leetcode Backend
+# LeetShaastra Backend
 
 This is the backend for a Leetcode-like platform, providing a robust set of features for user authentication, problem management, code execution, contests, and more.
 
